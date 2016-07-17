@@ -1,3 +1,3 @@
 # PokemonGo
 
-(https://github.com/Shadow-Labs/PokemonGo/blob/master/Resources/SLlogoSmall.png)
+![alt text](https://github.com/Shadow-Labs/PokemonGo/blob/master/Resources/SLlogoSmall.png "Shadow Labs")
